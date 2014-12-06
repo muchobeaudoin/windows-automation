@@ -1,0 +1,6 @@
+type("r", KeyModifier.WIN)
+type("cmd\n")
+wait(2)
+type("echo 'hi im running automatically\n'")
+wait(2)
+type("exit")
